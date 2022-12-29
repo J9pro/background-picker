@@ -10,7 +10,7 @@ h1 {
     justify-content: center;
 }
 
-div>.button {
+div {
     display: flex;
     justify-content: center;
 }
